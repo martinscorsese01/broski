@@ -4,7 +4,7 @@ const steps = [
   {
     number: 1,
     title: "Register & choose your vibe",
-    description: "You fill in the form, pick the package that suits you (Standard, Ski Blast or Luxury) and tell us roughly who's coming with you."
+    description: "You fill in the form, pick the package that suits you Standard, Ski Blast or Luxury."
   },
   {
     number: 2,
@@ -26,7 +26,7 @@ const steps = [
 const whatWeSort = [
   { icon: Plane, text: "Flights – return flights for your chosen dates" },
   { icon: Car, text: "Airport transfers – to and from the ski resort" },
-  { icon: Hotel, text: "Accommodation – your selected hotel/apartment" },
+  { icon: Hotel, text: "Accommodation – selected hotel/apartment" },
   { icon: Snowflake, text: "Ski / snowboard hire – gear ready for you in resort" },
   { icon: Ticket, text: "Lift passes – arranged so you're ready to hit the slopes" },
   { icon: MessageSquare, text: "Trip coordination – group chat, schedule and support before & during the trip" }

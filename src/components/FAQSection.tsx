@@ -23,7 +23,7 @@ const faqs = [
   },
   {
     question: "Where do I fly from?",
-    answer: "Flights will be from Manchester Airport (MAN) or Liverpool Airport (LPL)."
+    answer: "Flights will be from Manchester Airport (MAN), Liverpool Airport (LPL), Birmingham Airport (BHX), or London airports (LHR, LGW)."
   },
   {
     question: "What's the payment process?",

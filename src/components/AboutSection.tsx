@@ -15,8 +15,8 @@ const AboutSection = () => {
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             We're a crew of ski-obsessed students and young professionals who believe that the best adventures 
-            happen when you hit the mountains with your mates. No boring tours, no stuffy hotells, 
-            just pure snow, and good times.
+            happen when you hit the mountains with your mates. No boring tours, no stuffy hotels, 
+            just pure snow and good times.
           </p>
         </div>
 
